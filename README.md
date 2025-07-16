@@ -1,4 +1,4 @@
-# Eye-animation
+# EyeInteraction
 This is an interactive web character whose eyes follow the mouse cursor. 
 I created this project using HTML, CSS and Javascript.
 
