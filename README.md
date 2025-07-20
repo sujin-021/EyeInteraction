@@ -17,7 +17,8 @@ The pupils react smoothly to movement, giving a lifelike and playful expression 
 - Responsive Eye Position & Size : Pupil sizes and positions are dynamically calculated based on the face image size using getBoundingClientRect(). This ensures that the eyes scale correctly on different screen sizes and stay in place even when the window is resized.
 
 
-### Live Demo
-👉 [Click and Enjoy!](https://sujin-021.github.io/Eye-animation/)
+### Preview
+👉 [Preview](./preview.gif)
+👉 [Live Demo](https://sujin-021.github.io/Eye-animation/)
 > Tip: Open the link and move your mouse to see the character follow you around!
 
