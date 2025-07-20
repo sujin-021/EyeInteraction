@@ -19,6 +19,6 @@ The pupils react smoothly to movement, giving a lifelike and playful expression 
 
 ### Preview
 👉 [Preview](./preview.gif)
-👉 [Live Demo](https://sujin-021.github.io/Eye-animation/)
+👉 [Live Demo](https://sujin-021.github.io/EyeInteraction/)
 > Tip: Open the link and move your mouse to see the character follow you around!
 
