@@ -5,7 +5,7 @@ This is an interactive web character whose eyes follow the user's mouse cursor i
 The pupils react smoothly to movement, giving a lifelike and playful expression to the illustrated face.
 
 
-# Technologies used
+### Technologies used
 - HTML : basic layout and image placement
 - CSS : Styling and font design using Google Fonts
 - JavaScript : Real-time mouse tracking and Pupil movement
